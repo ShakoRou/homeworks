@@ -1,12 +1,9 @@
-from time import process_time_ns
+
+name = "shako"
+age = 27
+height = 176.5
+knows_programing = True
+surname = " Rou"
 
 
-name ="shako"
-surname="rou"
-age="27"
-height="170"
-print(name)
-print(surname)
-print(age)
-print(height)
-print(name+ "  " + surname + "  " +str(age)+ "  " +str(height))
+print("chemi saxelia {} da asakia {}".format(name))
